@@ -1,0 +1,31 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ProgramaGestion.chm
+Contents file=Table of Contents.hhc
+Default topic=index.html
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+Title=Índice
+
+
+[FILES]
+altaAlumno.html
+altaAsignatura.html
+altaMatricula.html
+altaProfesor.html
+bajaAlumno.html
+bajaAsignatura.html
+bajaMatricula.html
+bajaProfesor.html
+consultaAlumno.html
+consultaAsignatura.html
+consultaMatricula.html
+consultaProfesor.html
+index.html
+modificacionAlumno.html
+modificacionAsignatura.html
+modificacionMatricula.html
+modificacionProfesor.html
+
+[INFOTYPES]
+

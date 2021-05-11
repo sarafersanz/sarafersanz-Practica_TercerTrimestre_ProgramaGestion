@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Iacute;ndice">
+		<param name="Local" value="index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Alumnos">
+		<param name="Local" value="altaAlumno.html">
+		<param name="Local" value="bajaAlumno.html">
+		<param name="Local" value="consultaAlumno.html">
+		<param name="Local" value="modificacionAlumno.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Alumno">
+			<param name="Local" value="altaAlumno.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Alumno">
+			<param name="Local" value="bajaAlumno.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modificaci&oacute;n Alumno">
+			<param name="Local" value="modificacionAlumno.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Alumnos">
+			<param name="Local" value="consultaAlumno.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Profesores">
+		<param name="Local" value="altaProfesor.html">
+		<param name="Local" value="bajaProfesor.html">
+		<param name="Local" value="consultaProfesor.html">
+		<param name="Local" value="modificacionProfesor.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Profesor">
+			<param name="Local" value="altaProfesor.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Profesor">
+			<param name="Local" value="bajaProfesor.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modificaci&oacute;n Profesor">
+			<param name="Local" value="modificacionProfesor.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Profesores">
+			<param name="Local" value="consultaProfesor.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Asignaturas">
+		<param name="Local" value="altaAsignatura.html">
+		<param name="Local" value="bajaAsignatura.html">
+		<param name="Local" value="modificacionAsignatura.html">
+		<param name="Local" value="consultaAsignatura.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Asignatura">
+			<param name="Local" value="altaAsignatura.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Asignatura">
+			<param name="Local" value="bajaAsignatura.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modifiaci&oacute;n Asignatura">
+			<param name="Local" value="modificacionAsignatura.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Asignaturas">
+			<param name="Local" value="consultaAsignatura.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Matriculaciones">
+		<param name="Local" value="altaMatricula.html">
+		<param name="Local" value="bajaMatricula.html">
+		<param name="Local" value="modificacionMatricula.html">
+		<param name="Local" value="consultaMatricula.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Matr&iacute;cula">
+			<param name="Local" value="altaMatricula.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Matr&iacute;cula">
+			<param name="Local" value="bajaMatricula.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modifiaci&oacute;n Matr&iacute;cula">
+			<param name="Local" value="modificacionMatricula.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Matr&iacute;culas">
+			<param name="Local" value="consultaMatricula.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
